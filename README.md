@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abbaraees
 - 👀 I’m interested in Full Stack Developement and Data Science
-- 🌱 I’m currently learning frontend Development on @Scrimba
+- 🌱 I’m currently learning frontend Development at @Scrimba
 - 💞️ I’m looking to collaborate on any fullstack or Data Science related project
 - 📫 How to reach me abbaraees@gmail.com
 
